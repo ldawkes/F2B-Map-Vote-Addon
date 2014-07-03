@@ -1,4 +1,4 @@
-F2B-Map-Vote-Addon
+Map Vote Plugin
 ==================
 
-F2B's TTT Map Vote Addon
+A simple Map Voting plugin, designed specifically for the Fade 2 Black (www.f2bclan.com) servers
